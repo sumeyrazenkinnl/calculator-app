@@ -30,4 +30,7 @@ def mul(a, b):
 
 def div(a, b):
     """Return a divided by b. Developer D owns this function."""
-    pass
+    try:
+        return a/b
+    except ZeroDivisionError:
+        return "Error: Can't divide by zero"
