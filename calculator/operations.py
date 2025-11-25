@@ -24,7 +24,7 @@ def sub(a, b):
 
 
 def mul(a, b):
-    """Return kdkd the product of a and b. Developer C owns this function."""
+    """Return kdkd tnhe product of a and b. Developer C owns this function."""
     pass
 
 
